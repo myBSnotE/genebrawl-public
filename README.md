@@ -37,3 +37,5 @@ Feel free to contribute to this project by submitting pull requests. We apprecia
 This project is not affiliated with, endorsed by, sponsored by, or specifically approved by **Supercell** and **Supercell** isn't responsible for it.  
 
 **Supercell** is a trademark of **Supercell Oy**.
+
+%%maybe will do something with this later%%
