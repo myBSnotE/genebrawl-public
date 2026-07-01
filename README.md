@@ -38,4 +38,4 @@ This project is not affiliated with, endorsed by, sponsored by, or specifically 
 
 **Supercell** is a trademark of **Supercell Oy**.
 
-%%maybe will do something with this later%%
+*maybe will do something with this later*
